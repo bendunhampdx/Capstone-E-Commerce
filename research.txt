@@ -1,3 +1,5 @@
 9:30 am : Working on Discord clone to get more expereince using React, Firebase and google authentication
 
 10:30 am: attampted firebase deployment with discord clone https://github.com/bendunhampdx/discord-clone
+
+11:30 am: finished Discord clone and am starting a new tutorial on building a REACT based app for e-commerce
