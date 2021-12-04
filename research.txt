@@ -11,3 +11,5 @@
 3:30: Tutorial is going over react basics
 
 4:11pm : Creating example project in REact before starting E-Commerce app
+
+4:21: Stopping for the day.
