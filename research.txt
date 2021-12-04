@@ -9,3 +9,5 @@
 2:15pm: Fiish section 2 on REACT key concepts: Birth of React.js, declaritive vs imperative, component architexture, one way data flow, UI library, How to be a great React Developer
 
 3:30: Tutorial is going over react basics
+
+4:11pm : Creating example project in REact before starting E-Commerce app
